@@ -1,7 +1,3 @@
-// Do not change this file other than adding header files
-// if needed.
-// You can also comment parts of the functions, and uncomment
-// as you add more functionality.
 #include "points2d.h"
 
 #include <array> 
